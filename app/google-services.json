@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466691954321",
+    "project_id": "or-elrom",
+    "storage_bucket": "or-elrom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466691954321:android:a0f73f2381227cafb05130",
+        "android_client_info": {
+          "package_name": "com.example.orelrom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466691954321-vtchh1n6mn4l53iptvaf1pc1vvconsds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orelrom",
+            "certificate_hash": "50b2373bd9e29b5385a5a8ee7df876b104cb51f1"
+          }
+        },
+        {
+          "client_id": "466691954321-k8ghgns2dam016oknnn43q2jim11njkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIoTpt7HE19SEs_yWgRH8KICl_fpiqxmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466691954321-k8ghgns2dam016oknnn43q2jim11njkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
